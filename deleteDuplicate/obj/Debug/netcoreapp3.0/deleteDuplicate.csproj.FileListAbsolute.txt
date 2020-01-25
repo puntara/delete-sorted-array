@@ -1,0 +1,11 @@
+D:\deleteDuplicate\deleteDuplicate\bin\Debug\netcoreapp3.0\deleteDuplicate.exe
+D:\deleteDuplicate\deleteDuplicate\bin\Debug\netcoreapp3.0\deleteDuplicate.deps.json
+D:\deleteDuplicate\deleteDuplicate\bin\Debug\netcoreapp3.0\deleteDuplicate.runtimeconfig.json
+D:\deleteDuplicate\deleteDuplicate\bin\Debug\netcoreapp3.0\deleteDuplicate.runtimeconfig.dev.json
+D:\deleteDuplicate\deleteDuplicate\bin\Debug\netcoreapp3.0\deleteDuplicate.dll
+D:\deleteDuplicate\deleteDuplicate\bin\Debug\netcoreapp3.0\deleteDuplicate.pdb
+D:\deleteDuplicate\deleteDuplicate\obj\Debug\netcoreapp3.0\deleteDuplicate.csprojAssemblyReference.cache
+D:\deleteDuplicate\deleteDuplicate\obj\Debug\netcoreapp3.0\deleteDuplicate.AssemblyInfoInputs.cache
+D:\deleteDuplicate\deleteDuplicate\obj\Debug\netcoreapp3.0\deleteDuplicate.AssemblyInfo.cs
+D:\deleteDuplicate\deleteDuplicate\obj\Debug\netcoreapp3.0\deleteDuplicate.dll
+D:\deleteDuplicate\deleteDuplicate\obj\Debug\netcoreapp3.0\deleteDuplicate.pdb
